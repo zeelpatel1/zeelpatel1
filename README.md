@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zeel Patel</h1>
 <h3 align="center">A passionate full-Stack developer from India</h3>
+<p>Hey there! I'm a software developer who's all about teaming up and building cool projects together while learning along the way. Right now, I'm diving into Computer Engineering at SIES Nerul Mumbai. I'm an open-source enthusiast, always on the lookout for new ways to contribute and collaborate with awesome people. Let's connect, create something amazing, and have a blast doing it!</p>
 
 - 🌱 I’m currently learning **Web3, LLM's**
 
